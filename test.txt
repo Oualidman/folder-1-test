@@ -1,0 +1,4 @@
+test 
+primer linea a escribir 
+inicializo git repository
+hago stage y luego commit -> lo ha hechk in main
